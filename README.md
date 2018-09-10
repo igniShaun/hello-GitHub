@@ -1,5 +1,4 @@
-# hello-world
-If you can think of a better first project, I'd like to hear it.
+# hello-GitHub
 
-// Comment added for testing commit changes
+// This comment was added for testing commit changes
 Made by igniShaun. Start something.
